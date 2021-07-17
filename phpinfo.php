@@ -1,5 +1,5 @@
 <?php
 
-echo 'PHP version: '.phpversion().'<br>';
+echo 'PHP version saya adalah: '.phpversion().'<br>';
 
 ?>
